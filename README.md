@@ -1,10 +1,10 @@
 ## Hi there, I'm David
 
-I'm a software developer from Germany, living near Augsburg. My main focus is backend development based on Python using FastAPI/Django. Also I like to improve the tools we sue while working on projects.
+I'm a software developer from Germany, living near Augsburg. My main focus is backend development based on Python using FastAPI/Django. Also I like to improve the tools we use while working on projects.
 
 ### See my projects
 
-* [`nur` - as taskrunner based on `nu` shell](https://github.com/nur-taskrunner/nur): It borrows concepts from `just` and `b5` while adding the superpowers you get by using `nu`. Also see the [`nur` documentation](https://nur-taskrunner.github.io/docs/).
+* [`nur` - a taskrunner based on `nu` shell](https://github.com/nur-taskrunner/nur): It borrows concepts from `just` and `b5` while adding the superpowers you get by using `nu`. Also see the [`nur` documentation](https://nur-taskrunner.github.io/docs/).
 * [`b5` taskrunner](https://github.com/team23/b5): This is the taskrunenr I wrote before working on `nur`. It uses `bash` to define the tasks.
 * [sub-pre-commit](https://github.com/ddanier/sub-pre-commit) is a `pre-commit` hook to allow using `pre-commit` in monorepos.
 * Python libraries:
