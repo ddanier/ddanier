@@ -6,6 +6,7 @@ I'm a software developer from Germany, living near Augsburg. My main focus is ba
 
 * [`nur` - a taskrunner based on `nu` shell](https://github.com/nur-taskrunner/nur): It borrows concepts from `just` and `b5` while adding the superpowers you get by using `nu`. Also see the [`nur` documentation](https://nur-taskrunner.github.io/docs/).
 * [`b5` taskrunner](https://github.com/team23/b5): This is the taskrunenr I wrote before working on `nur`. It uses `bash` to define the tasks.
+* [`traefik-localdev`](https://github.com/ddanier/traefik-localdev): This is my local dev setup based on podman/docker compose and traefik, using a `.localdev` local only TLD.
 * [sub-pre-commit](https://github.com/ddanier/sub-pre-commit) is a `pre-commit` hook to allow using `pre-commit` in monorepos.
 * Python libraries:
   - [pydantic-partial](https://github.com/team23/pydantic-partial): Allow creating partial versions of your pydantic models.
